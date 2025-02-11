@@ -3,8 +3,7 @@
 
 # builds
 *.egg-info
-build/*
-dist/*
+build/
 
 # cache
 __pycache__

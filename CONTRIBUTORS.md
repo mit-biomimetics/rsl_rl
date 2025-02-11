@@ -12,15 +12,10 @@ Please keep the lists sorted alphabetically.
 
 ## Maintainers
 
-* Robotic Systems Lab, ETH Zurich
+* Robotic Syetms Lab, ETH Zurich
 * NVIDIA Corporation
 
 ---
-
-* Mayank Mittal
-* Clemens Schwarke
-
-## Authors
 
 * David Hoeller
 * Nikita Rudin
@@ -32,5 +27,5 @@ Please keep the lists sorted alphabetically.
 * Lorenzo Terenzi
 * Marko Bjelonic
 * Matthijs van der Boon
+* Mayank Mittal
 * Zhang Chong
-* Ziqi Fan
